@@ -12,8 +12,8 @@ I’m an Informatics student passionate about technology. Although I started lea
 
 ## 📊 GitHub Stats & Languages
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadijakubr&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijakubr&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
