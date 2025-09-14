@@ -1,7 +1,6 @@
 # Hi there, I'm Khadija 👋
 
-I'm an Informatics student passionate about technology, even though I started learning tech a bit late 
-and came from a different field — my enthusiasm keeps me moving forward.  
+I’m an Informatics student passionate about technology. Although I started learning tech a bit later and came from a different field, my enthusiasm keeps me moving forward. This GitHub page is where I share both my campus assignments and personal projects.
 
 💻 My current focus:
 - iOS Development with **Swift**
