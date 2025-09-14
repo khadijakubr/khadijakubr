@@ -10,10 +10,14 @@ I’m an Informatics student passionate about technology. Although I started lea
 
 ---
 
-## 📊 GitHub Languages
+## 📊 GitHub Stats & Languages
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijakubr&layout=compact&theme=radical" />
-  <img height="180em" src="https://camo.githubusercontent.com/7ad6807a0f9217c2207e54cb17275d4ec3667fc03abb397a38a47bce2bd88ec6/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7ad6807a0f9217c2207e54cb17275d4ec3667fc03abb397a38a47bce2bd88ec6/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" width="300"/>
 </p>
 
 ---
