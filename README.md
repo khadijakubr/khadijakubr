@@ -13,7 +13,6 @@ and came from a different field — my enthusiasm keeps me moving forward.
 
 ## 📊 GitHub Stats & Languages
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khadijakubr&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadijakubr&layout=compact&theme=radical" />
 </p>
 
